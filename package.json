@@ -1,0 +1,18 @@
+{
+  "name": "twitter_giphy",
+  "version": "1.0.0",
+  "description": "Application that tweets out random gifs via an input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Farhan Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
+  }
+}
