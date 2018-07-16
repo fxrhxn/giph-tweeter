@@ -2,7 +2,12 @@
 
 ## Tweet out random giphs via a post request.
 
-### Check [@GiphTweeter](https://www.twitter.com/giphtweeter) to see if it worked.
+
+[Demo](https://media.giphy.com/media/dtW3lHzKqpTtsNYHeA/giphy.gif) 
+
+
+
+### Check [@GiphTweeter](https://www.twitter.com/giphtweeter) to see your tweets.
 
 ***
 ## URL - https://localhost:3000/api/tweet
