@@ -4,6 +4,9 @@
 
 ### Check [@GiphTweeter](https://www.twitter.com/giphtweeter) to see if it worked.
 
+***
 ## URL - https://localhost:3000/api/tweet
 
 ## Body - giph_type : String
+
+## Method - POST
