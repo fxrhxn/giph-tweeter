@@ -3,7 +3,7 @@
 ## Tweet out random giphs via a post request.
 
 
-[Demo](https://media.giphy.com/media/dtW3lHzKqpTtsNYHeA/giphy.gif) 
+![Demo](https://media.giphy.com/media/dtW3lHzKqpTtsNYHeA/giphy.gif) 
 
 
 
